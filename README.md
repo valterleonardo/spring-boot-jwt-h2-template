@@ -1,0 +1,1 @@
+# spring-boot-jwt-h2-template
